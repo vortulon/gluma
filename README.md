@@ -1,8 +1,6 @@
 # gluma
 simple, minimal and easy to use lua based text editor
 
----
-
 ## installation
 
 ### what you need
@@ -49,5 +47,4 @@ simple, minimal and easy to use lua based text editor
 | `:d N-M`      | Delete lines N to M.                             |
 | `:h`          | Show the help screen.                            |
 
----
 ---
